@@ -10,7 +10,7 @@ public class Class1
 	
 	{
        System.out.println("welcome all of you");	
-       
+       System.out.println("welcome all ");	
 	}
 	
 	public static void main(String[] args) {
